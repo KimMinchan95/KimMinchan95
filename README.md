@@ -2,6 +2,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World👋;Wellcome+To+My+Github&height=45&size=32&color=1cff54)
 - 📫 How to reach me: hialscks@gmail.com
 
+![](https://raw.githubusercontent.com/KimMinchan95/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/KimMinchan95/github-stats-transparent/output/generated/languages.svg)
+
 <!--
 **KimMinchan95/KimMinchan95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
