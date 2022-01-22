@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KimMinchan95%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20)
 ### Hi there 👋
 
 - 📫 How to reach me: hialscks@gmail.com
