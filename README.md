@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=230&section=header&text=KimMinchan95&fontAlign=50&fontAlignY=36&desc=FrontEnd&descAlign=73.5&descAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=230&section=header&text=KimMinchan95&fontAlign=65&fontAlignY=36&desc=FrontEnd&descAlign=88.5&descAlignY=50&animation=twinkling)
 ### Hello World! 👋
 
 - 📫 How to reach me: hialscks@gmail.com
