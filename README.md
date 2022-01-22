@@ -2,7 +2,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World👋;Wellcome+To+My+Github&height=45&size=32&color=1cff54)
 
 - 📫 How to reach me: hialscks@gmail.com
+- 📗 This is my blog: [기록하며 기억](https://velog.io/@pest95)
 - 💻 I'm woking at: [People & Technology](https://www.pntbiz.co.kr)
+- 😄 What I want: I want to experience and learn a lot.
 
 ![](https://raw.githubusercontent.com/KimMinchan95/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/KimMinchan95/github-stats-transparent/output/generated/languages.svg)
