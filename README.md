@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=230&section=header&text=KimMinchan95&fontAlign=65&fontAlignY=36&desc=FrontEnd&descAlign=88.5&descAlignY=50&animation=twinkling)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World👋;Wellcome+To+My+Github&height=45&size=35&color=1cff54)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World👋;Wellcome+To+My+Github&height=45&size=32&color=1cff54)
 - 📫 How to reach me: hialscks@gmail.com
 
 <!--
