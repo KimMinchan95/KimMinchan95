@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Hello%World!&fontAlign=70&desc=Desc&descAlign=20)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=230&section=header&text=KimMinchan95&fontAlign=50&fontAlignY=36&desc=FrontEnd&descAlign=73.5&descAlignY=50&animation=twinkling)
+### Hello World! 👋
 
 - 📫 How to reach me: hialscks@gmail.com
 
