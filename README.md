@@ -33,7 +33,7 @@
 
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
-Repositories
+💾 Repositories
 --
 
 ![](https://raw.githubusercontent.com/KimMinchan95/github-stats-transparent/output/generated/overview.svg)
