@@ -7,7 +7,7 @@
 - 📫 How to reach me : hialscks@gmail.com
 - 📗 This is my blog : [기록하며 기억](https://velog.io/@pest95)
 - 💻 I'm woking at : [People & Technology](https://www.pntbiz.co.kr)
-- 😄 What I want : I want to experience and learn a lot.
+- 😄 What I want : experience and learn a lot.
 
 ⌨ Teck Stacks
 --
