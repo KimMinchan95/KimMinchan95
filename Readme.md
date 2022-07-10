@@ -7,6 +7,9 @@
 - 📫 How to reach me : hialscks@gmail.com
 - 📗 This is my blog : [FrontEnd DeepDive](https://velog.io/@pest95)
 - 💻 I'm woking at : [People & Technology](https://www.pntbiz.co.kr)
+- 💪 My strength : Collaboration and tenacity.
+- 👎 My weakness : Physical weaknesses.
+- 📈 An effort to overcome : Working out every day.
 - 😄 What I want : Experience and learn a lot.
 
 ⌨ Teck Stacks
