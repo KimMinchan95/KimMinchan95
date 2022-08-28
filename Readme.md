@@ -8,8 +8,8 @@
 - 📗 This is my blog : [FrontEnd DeepDive](https://velog.io/@pest95)
 - 💻 I'm woking at : [People & Technology](https://www.pntbiz.co.kr)
 - 💪 My strength : Collaboration and tenacity.
-- 👎 My weakness : Physical weaknesses.
-- 📈 An effort to overcome : Working out every day.
+- 👎 My weakness : Concentration.
+- 📈 An effort to overcome : I develop my concentration by reading books.
 - 😄 What I want : Experience and learn a lot.
 
 ⌨ Teck Stacks
