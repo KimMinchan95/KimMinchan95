@@ -12,7 +12,7 @@
 - 📈 An effort to overcome : I develop my concentration by reading books.
 - 😄 What I want : Experience and learn a lot.
 
-⌨ Teck Stacks
+⌨ Tech Stacks
 --
 
 **Strong**
