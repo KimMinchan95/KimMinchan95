@@ -22,7 +22,7 @@
 
 **Knowledgeable**
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 
 **ETC**
 
