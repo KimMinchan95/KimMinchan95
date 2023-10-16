@@ -34,7 +34,7 @@
 
 **Studying**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-white?style=flat&logo=Next.js&logoColor=black"/>
 
 
 💾 Repositories
