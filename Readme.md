@@ -7,9 +7,10 @@
 - 📫 How to reach me : hialscks@gmail.com
 - 📗 This is my blog : [FrontEnd DeepDive](https://velog.io/@pest95)
 - 💻 I'm woking at : [People & Technology](https://www.pntbiz.co.kr)
-- 💪 My strength : Strong collaboration with clear communication and persistence in problem-solving.
-- 👎 My weakness : I tend to focus too much on details, so I actively manage priorities to stay efficient.
-- 😄 What I want : To build meaningful products while continuously learning and growing.
+  
+- 💪 My strength : 디테일을 사랑하는 개발자, 명확한 커뮤니케이션을 기반으로 한 협업과 문제 해결에 대한 끈기
+- 👎 My weakness : 디테일에 집중하는 경향이 있어, 우선순위 관리를 통해 효율을 유지하려고 노력합니다
+- 😄 What I want : UX와 DX를 모두 고려해 더 나은 사용자 경험을 만들고, 버그를 줄이는 개발자가 되고 싶습니다.
 
 📚 My Writings
 --
@@ -22,8 +23,8 @@
 ⌨ Tech Stacks
 --
 
-> **Strong** : Technologies I have used in production  
-> **Knowledgeable** : Technologies I have used in personal projects or studied
+> **Strong** : 실무(프로덕션)에서 사용한 기술 
+> **Knowledgeable** : 개인 프로젝트 또는 학습 경험 기반 기술
 
 **Strong**
 
